@@ -1,0 +1,3 @@
+[submodule "develop/tinycrc"]
+	path = develop/tinycrc
+	url = ../tinycrc.git
