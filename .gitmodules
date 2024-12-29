@@ -1,3 +1,6 @@
 [submodule "develop/tinycrc"]
 	path = develop/tinycrc
 	url = ../tinycrc.git
+[submodule "allornothing"]
+	path = allornothing
+	url = ../allornothing.git
