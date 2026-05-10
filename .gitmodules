@@ -7,3 +7,6 @@
 [submodule "develop/wmi"]
 	path = develop/wmi
 	url = ../wmi.git
+[submodule "misc/pymarkdown"]
+	path = misc/pymarkdown
+	url = ../pymarkdown.git
