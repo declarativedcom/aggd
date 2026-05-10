@@ -10,3 +10,6 @@
 [submodule "misc/pymarkdown"]
 	path = misc/pymarkdown
 	url = ../pymarkdown.git
+[submodule "misc/pyang"]
+	path = misc/pyang
+	url = ../pyang.git
