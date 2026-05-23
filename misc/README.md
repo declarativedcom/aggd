@@ -19,7 +19,7 @@
 
 Notes:
 
-```
+```text
 origin  git@github.com:declarativedcom/pyang.git (fetch)
 origin  git@github.com:declarativedcom/pyang.git (push)
 upstream        git@github.com:mbj4668/pyang.git (fetch)

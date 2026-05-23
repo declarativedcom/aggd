@@ -13,3 +13,6 @@
 [submodule "misc/pyang"]
 	path = misc/pyang
 	url = ../pyang.git
+[submodule "misc/lxml"]
+	path = misc/lxml
+	url = ../lxml.git
