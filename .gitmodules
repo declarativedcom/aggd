@@ -16,3 +16,9 @@
 [submodule "misc/lxml"]
 	path = misc/lxml
 	url = ../lxml.git
+[submodule "own/own-priv"]
+	path = own/own-priv
+	url = ../own-priv.git
+[submodule "misc/pypdf"]
+	path = misc/pypdf
+	url = ../pypdf.git

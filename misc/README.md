@@ -17,6 +17,10 @@
    - fork of [pyang (github)](https://github.com/mbj4668/pyang),
    - [(here)](https://github.com/declarativedcom/pyang) pyang at github
 
+1. pypdf
+   - fork of [pyang (github)](https://github.com/py-pdf/pypdf),
+     - [(here)](https://github.com/declarativedcom/pypdf)
+
 Notes:
 
 ```text
