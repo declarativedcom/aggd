@@ -22,3 +22,6 @@
 [submodule "misc/pypdf"]
 	path = misc/pypdf
 	url = ../pypdf.git
+[submodule "others/drivers"]
+	path = others/drivers
+	url = git@gist.github.com:732b3a3a6934f27b8405c40ee3a7216e.git
