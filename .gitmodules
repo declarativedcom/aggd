@@ -25,3 +25,6 @@
 [submodule "others/drivers"]
 	path = others/drivers
 	url = git@gist.github.com:732b3a3a6934f27b8405c40ee3a7216e.git
+[submodule "others/papers/son"]
+	path = others/papers/son
+	url = git@gist.github.com:5b1cc897bd0b99119fdc7fc42b8a2982.git
