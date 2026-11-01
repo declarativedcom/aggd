@@ -28,3 +28,9 @@
 [submodule "others/papers/son"]
 	path = others/papers/son
 	url = git@gist.github.com:5b1cc897bd0b99119fdc7fc42b8a2982.git
+[submodule "own/own-linux"]
+	path = own/own-linux
+	url = ../own-linux.git
+[submodule "chess/chess-material"]
+	path = chess/chess-material
+	url = ../chess-material.git
